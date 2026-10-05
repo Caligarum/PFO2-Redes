@@ -83,7 +83,7 @@ donde se muestra el HTML de bienvenida.
 
 ### Contraseña almacenada como hash
 
-![Hash](capturas/04_hash_contraseña.png)
+![Hash](capturas/04_hash_contrasenia.png)
 
 ### Inicio de sesión correcto
 
